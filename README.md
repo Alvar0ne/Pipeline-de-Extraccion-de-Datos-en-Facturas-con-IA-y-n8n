@@ -1,4 +1,4 @@
-# Proyecto de automatización de procesamiento de facturas con IA
+# Proyecto de automatización de procesamiento de facturas con IA y n8n
  
 ## Contexto del negocio
 
