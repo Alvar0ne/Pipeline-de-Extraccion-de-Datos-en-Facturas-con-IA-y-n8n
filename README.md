@@ -110,13 +110,13 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 - workflow/: exportación del flujo n8n
 - README.md: documentación del proyecto
 
-##Ejecución
+## Ejecución
 
 El flujo se ejecuta automáticamente al recibir un correo con una factura PDF.
 
 El sistema procesa el documento en tiempo real y registra los datos en Google Sheets sin intervención manual.
 
-##Conclusión
+## Conclusión
 
 Este proyecto demuestra cómo automatizar completamente un proceso administrativo utilizando integración de herramientas, IA y estructuración de datos.
 
