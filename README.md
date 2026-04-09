@@ -79,7 +79,7 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 ## Visualizaciones
 
 
-- Flujo completo en n8n
+![Flujo completo n8n](IMAGES/FLUJO_N8N.png)
 - Output del análisis del documento
 - JSON generado por IA
 - Datos registrados en Google Sheets
@@ -106,7 +106,7 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 
 ## Estructura del proyecto
 
-- screenshots/: imágenes del flujo y resultados
+- IMAGES/: imágenes del flujo y resultados
 - workflow/: exportación del flujo n8n
 - README.md: documentación del proyecto
 
