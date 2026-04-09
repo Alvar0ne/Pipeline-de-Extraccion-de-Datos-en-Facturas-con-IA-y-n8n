@@ -1,6 +1,6 @@
-#Proyecto de automatización de procesamiento de facturas con IA
-
-##Contexto del negocio
+# Proyecto de automatización de procesamiento de facturas con IA
+ 
+## Contexto del negocio
 
 Las empresas reciben constantemente facturas en formato PDF a través de correo electrónico, lo que obliga a revisar manualmente cada documento para extraer información relevante.
 
