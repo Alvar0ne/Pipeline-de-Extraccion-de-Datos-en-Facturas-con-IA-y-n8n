@@ -79,7 +79,8 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 ## Visualizaciones
 
 
-! [Flujo completo n8n](IMAGES/FLUJO_N8N.png)
+![Flujo completo n8n](IMAGES/FLUJO_N8N.png)
+
 - Output del análisis del documento
 - JSON generado por IA
 - Datos registrados en Google Sheets
