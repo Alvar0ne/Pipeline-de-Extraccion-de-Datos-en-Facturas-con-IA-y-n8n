@@ -29,6 +29,10 @@ Los datos presentan características típicas de documentos no estructurados:
 - Dependencia de interpretación humana
 
 
+##  Instalacion y puesta en marcha
+
+Se utilizo un contenerdor en Docker para poder instalar y correr el aplicativo n8n, en este caso fue de forma local  pero con posibilidad de pasarlo a productivo
+
 ##  Proceso de automatización
 
 El proyecto fue desarrollado utilizando N8N,  integrando servicios externos e IA para análisis documental.
@@ -89,4 +93,32 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 - Integrar correo, procesamiento y almacenamiento en un solo flujo reduce fricción operativa.
 - Este tipo de soluciones tiene impacto directo en eficiencia y reducción de costos.
 
+
+## Herramientas y Tecnologías utilizadas
+
+- Docker
+- n8n
+- Gmail
+- Google Sheets
+- API Gemini (análisis de documentos)
+- JSON
+- Automatización de workflows
+
+## Estructura del proyecto
+
+- screenshots/: imágenes del flujo y resultados
+- workflow/: exportación del flujo n8n
+- README.md: documentación del proyecto
+
+##Ejecución
+
+El flujo se ejecuta automáticamente al recibir un correo con una factura PDF.
+
+El sistema procesa el documento en tiempo real y registra los datos en Google Sheets sin intervención manual.
+
+##Conclusión
+
+Este proyecto demuestra cómo automatizar completamente un proceso administrativo utilizando integración de herramientas, IA y estructuración de datos.
+
+El valor no está solo en automatizar, sino en convertir documentos no estructurados en información útil, lista para ser utilizada en la toma de decisiones.
 
