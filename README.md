@@ -31,7 +31,9 @@ Los datos presentan características típicas de documentos no estructurados:
 
 ##  Instalacion y puesta en marcha
 
-Se utilizo un contenerdor en Docker para poder instalar y correr el aplicativo n8n, en este caso fue de forma local  pero con posibilidad de pasarlo a productivo
+Se utilizo un contenerdor en Docker para poder instalar y correr el aplicativo n8n, en este caso fue de forma local  pero con posibilidad de pasarlo a productivo.
+
+Se integraron las APIS del herramientas a utilizar como lo se Gmail, Google Drive y Gemini
 
 ##  Proceso de automatización
 
