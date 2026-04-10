@@ -134,7 +134,7 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 ## Estructura del proyecto
 
 - IMAGES/: imágenes del flujo y resultados
-- workflow/: exportación del flujo n8n
+- FILES/: exportación del flujo n8n
 - README.md: documentación del proyecto
 
 ## Ejecución
