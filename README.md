@@ -78,8 +78,14 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 
 ## Visualizaciones
 
-
+# Flujo Completo n8n
 ![Flujo completo n8n](IMAGES/flujo_n8n.png)
+
+# Output 1 (Nodo trigger) 
+![Flujo completo n8n](IMAGES/N8N1.png)
+
+# Output 2 (Nodo Gemini) 
+![Flujo completo n8n](IMAGES/N8N2.png)
 
 - Output del análisis del documento
 - JSON generado por IA
