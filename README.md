@@ -81,6 +81,9 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 # Flujo Completo n8n
 ![Flujo completo n8n](IMAGES/flujo_n8n.png)
 
+# Input Factura Ejemplo
+![Flujo completo n8n](IMAGES/FACTURA.png)
+
 # Output 1 (Nodo trigger) 
 ![Flujo completo n8n](IMAGES/N8N1.png)
 
@@ -102,10 +105,9 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 # Mapeo desde datos Normalizados a Columnas de Excel(Nodo Excel Sheets) 
 ![Flujo completo n8n](IMAGES/N8N7.png)
 
+# Datos registrados en Excel
+![Flujo completo n8n](IMAGES/N8N8.png)
 
-- Output del análisis del documento
-- JSON generado por IA
-- Datos registrados en Google Sheets
 
 
 
