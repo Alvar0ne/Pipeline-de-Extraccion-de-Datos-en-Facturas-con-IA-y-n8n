@@ -87,6 +87,13 @@ puede ser eescalado y transformado para cualquier tipo de archivo PDF.
 # Output 2 (Nodo Gemini) 
 ![Flujo completo n8n](IMAGES/N8N2.png)
 
+# Output 3 (Nodo Normalizacion) 
+![Flujo completo n8n](IMAGES/N8N3.png)
+
+# Output 4 (Nodo Excel Sheets) 
+![Flujo completo n8n](IMAGES/N8N4.png)
+
+
 - Output del análisis del documento
 - JSON generado por IA
 - Datos registrados en Google Sheets
